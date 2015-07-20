@@ -74,7 +74,8 @@ public class Sesion4 {
            System.out.println(trabajador[i].getApellido());
            System.out.println("EDAD");
            System.out.println(trabajador[i].getEdad());
-           System.out.println("");           
+           System.out.println("");  
+           //trabajador[i].imprimirDatos(" ");
         }
         
         
